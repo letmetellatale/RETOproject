@@ -1,10 +1,8 @@
 // 頁面 - 行程總頁/我的行程
 
 import React from 'react'
-// import { Link } from 'react-router-dom';
 import MyTripCard from '../../components-common/MyTripCard/MyTripCard.jsx';
 import ButtonChk from '../../components-common/Button/ButtonChk/ButtonChk.jsx';
-// import "./MyTrip.css";
 import "./MyTrip.scss"
 
 
